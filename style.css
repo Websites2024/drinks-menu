@@ -1,0 +1,42 @@
+body {
+    background-color: none;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: linear-gradient(to right, #e7b2a5, #fff);
+    padding: 11px;
+    text-align: center;
+    font-family: 'Pacifico';
+}
+
+footer {
+    background: linear-gradient(to right, #e7b2a5, #ffffff);
+    color: #000000;
+    font-family: 'Pacifico';
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.container {
+    padding: 50px; /* Innenabstand des Containers */
+    margin: 20px; /* Außenabstand des Containers */
+    font-family: 'Pacifico';
+    /* border: #000000 1px solid; */
+}
+
+img {
+    height: 30px;
+    width: auto;
+}
+
+.container2 {
+    padding: 50px; /* Innenabstand des Containers */
+    margin: 20px; /* Außenabstand des Containers */
+    font-family: 'Pacifico';
+    /* border: #000000 1px solid; */
+}
